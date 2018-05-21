@@ -1,7 +1,7 @@
 {
     "version": "0.1.0",
     "command": "c:\\Python34\\python",
-    "args": ["test.py"],
+    "args": ["test.py", "reszta.py"],
     "problemMatcher": {
         "fileLocation": ["relative", "${workspaceRoot}"],
         "pattern": {
